@@ -1,1 +1,1 @@
-This application use Isar DataBase
+This application use Isar Database
